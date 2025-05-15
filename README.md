@@ -1,6 +1,6 @@
 # 🏠 Enterprise-Grade Real Estate Rental App
 
-A full-stack, scalable real estate rental application built with **Next.js**, **Node.js**, and **AWS** services. Inspired by Ed Roh's comprehensive tutorial, this application showcases best practices in modern full-stack development and deployment on the AWS cloud.
+A full-stack, scalable real estate rental application built with **Next.js**, **Node.js**, and **AWS** services. Inspired this application showcases best practices in modern full-stack development and deployment on the AWS cloud.
 
 ## 🚀 Live Demo
 
